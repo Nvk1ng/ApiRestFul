@@ -1,2 +1,11 @@
+.yarn/
+node_modules/
+yarn.lock
+.editorconfig
+.gitattributes
+.pnp.*
+package-lock.json
+
+
 node_modules/
 yarn.lock
